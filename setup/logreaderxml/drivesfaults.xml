@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><faults>
+<F207></F207>
+<F1910>PROFIBUS: Setpoint timeout</F1910>
+<F1920>PROFIBUS: Interruption cyclic connection</F1920>
+<F5002>Power unit: Air intake overtemperature</F5002>
+<F5052>Parallel circuit: Illegal current dissymmetry</F5052>
+<F7910>Drive: Motor overtemperature</F7910>
+<F7931>Brake does not open</F7931>
+<F64149>Current limit 1 reached (>= continous current)</F64149>
+<F64136>Self tripping excitation breaker</F64136>
+<F64042>Circuit breaker motor fans group 1 tripped</F64042>
+<F64065>Water flow monitoring tripped</F64065>
+<F64107>Switch on fault excitation breaker</F64107>
+<F64156>Speed deviation NREF - NACT too high</F64156>
+<F64207>Fault break</F64207>
+<F64208>Drive blocked</F64208>
+<F64275>Spare</F64275>
+</faults>
+

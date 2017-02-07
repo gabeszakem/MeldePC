@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<colors>
+    <colorconditional>
+        <column>7</column>
+        <match>felulet ellenorzo podium tipus</match>
+        <conditionalcolumn>6</conditionalcolumn>
+        <conditional>le</conditional>
+        <conditionalvalue>3.0</conditionalvalue>
+        <ifbackground>green</ifbackground>
+        <ifforeground>darkgray</ifforeground>
+        <elsebackground>pink</elsebackground>
+        <elseforeground>darkgray</elseforeground>
+    </colorconditional>
+</colors>
