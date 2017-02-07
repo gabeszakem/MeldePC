@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><faults>
+<F0> </F0>
+<F9> </F9>
+<F10> </F10>
+<F11> </F11>
+<F12> </F12>
+<F42> </F42>
+<F65> </F65>
+<F66> </F66>
+<F71> </F71>
+<F108> </F108>
+<F111> </F111>
+<F113> </F113>
+<F207> </F207>
+<F275> </F275>
+<F282> </F282>
+<F1481>Power Unit eltünt </F1481>
+<F1910>PROFIBUS: Setpoint timeout</F1910>
+<F1911>PB/PN clock cycle synchronous operation clock cycle failure</F1911>
+<F1912>PB/PN clock cycle synchronous operation sign-of-life failure</F1912>
+<F1920>PROFIBUS: Interruption cyclic connection</F1920>
+<F5001> </F5001>
+<F5002>Power unit: Air intake overtemperature</F5002>
+<F5051>Parallel circuit: Power unit pulse enable missing</F5051>
+<F5052>Parallel circuit: Illegal current dissymmetry</F5052>
+<F6200>Infeed: Failure of one or several line phases </F6200>
+<F6301>Infeed: Line supply overvoltage</F6301>
+<F7300>Drive: Line contactor feedback signal missing</F7300>
+<F7802>Power Unit nem üzemkész</F7802>
+<F7850>External alarm 1</F7850>
+<F7860>External fault 1</F7860>
+<F7861>External fault 2</F7861>
+<F7862>External fault 3</F7862>
+<F7901>Drive: Motor overspeed</F7901>
+<F7902>Motor stalled</F7902>
+<F7910>Motor overtemperature</F7910>
+<F7931>Brake does not open</F7931>
+<F7932>Break does not close</F7932>
+<F24576> </F24576>
+<F24594> </F24594>
+<F24595> </F24595>
+<F30001>Power Unit: Overcurrent</F30001>
+<F30002>Power unit: DC link voltage, overvoltage</F30002>
+<F30003>Power unit: DC link voltage, undervoltage</F30003>
+<F30027>Power Unit: Precharging DC link time monitoring</F30027>
+<F30041>Power unit Undervoltage 24V alarm </F30041>
+<F30045>Power Unit alacsony feszültség</F30045>
+<F30804>Power unit: CRC error</F30804>
+<F30851>CU DRIVE-CLIQ: életjel hiányzik. </F30851>
+<F49200>Excitation group signal fault</F49200>
+<F49201>Excitation group signal alarm</F49201>
+<F64005>Overspeed motor</F64005>
+<F64009>Hardware fault absolute encoder</F64009>
+<F64010>Ellenorizd le az inverter szellozes automatakat!</F64010>
+<F64011>Tartalék</F64011>
+<F64012>Tartalék</F64012>
+<F64034>Circuit breaker transformer 2AC auxiliary voltage tripped</F64034>
+<F64041>Fuse disconnector motor fans tripped</F64041>
+<F64042>Circuit breaker motor fans group 1 tripped</F64042>
+<F64044> </F64044>
+<F64049> </F64049>
+<F64052>Circuit breaker control voltage excitation breaker tripped</F64052>
+<F64065>Water flow monitoring tripped</F64065>
+<F64066> </F64066>
+<F64071>Disc brake oil pressure too low</F64071>
+<F64106>Switch off fault active infeed</F64106>
+<F64107>Switch on fault excitation breaker</F64107>
+<F64108>Gerjesztés kikapcsolás hiba</F64108>
+<F64110>Delayed Trip TC6: Emergency stop at internal ramp</F64110>
+<F64111> </F64111>
+<F64112> </F64112>
+<F64113>Communication fault MRG</F64113>
+<F64114>Communication fault vector control</F64114>
+<F64126>Spare</F64126>
+<F64135>Contactor fault exctitation breaker</F64135>
+<F64136>Self tripping excitation breaker</F64136>
+<F64149>Current limit 1 reached (>= continous current)</F64149>
+<F64156>Speed deviation NREF - NACT too high</F64156>
+<F64168>Temperature air inlet alarm</F64168>
+<F64207>Fault break</F64207>
+<F64208>Drive blocked</F64208>
+<F64275>Spare</F64275>
+<F64276> </F64276>
+<F64284> </F64284>
+<F64332>Trip overvoltage protection excitation DC-side</F64332>
+<F64334> </F64334>
+<F64335> </F64335>
+<F64045> </F64045>
+<F64274> </F64274>
+<F64067> </F64067>
+<F41> </F41>
+<F30920> </F30920>
+<F7016> </F7016>
+<F30042> </F30042>
+<F112> </F112>
+<F64117> </F64117>
+<F64326> </F64326>
+<F126> </F126>
+<F64053> </F64053>
+<F168> </F168>
+<F5000> </F5000>
+<F30004> </F30004>
+<F31120> </F31120>
+</faults>
+

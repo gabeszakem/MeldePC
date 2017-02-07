@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<colors>
+    <color>
+        <column>7</column>
+        <match>fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>10</column>
+        <match>emerg</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sürü jános</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>suru jános</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>power supply fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>error powersupply</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>power fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>communication not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>fault et200</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>no comm.to</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip break</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>block protection not o.k</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>e-stop</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>fault no</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emulzió olaj</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>BC09P01</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>stop request</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>9</column>
+        <match>wh</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>abb is not corr</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>quick-stop</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>quick stop</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>vastagság eltérés a szigoritott türésen kivül</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>channel full</match>
+        <background>black</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>system message</match>
+        <background>darkgray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>is turning with line speed</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por grease lubr.syst.end press. line 2 not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>magas hofok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>reduction by drive</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>is turn line speed</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>d05</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por grease lubr.syst.end press. line 1 not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por grease lubr.syst.is not rfo</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>central grease lube system line 2 press not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>central grease lube system line 1 press not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>central grease lube system not rfo</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ködkenés központi levego nyomás hiba</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>szalagprés</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>normal stop impulzusadó figyelés</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emulziógöz elszivó ventillator bekapcsolva</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emulziógöz elszivó ventillator kikapcsolva</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>th ködkenes hiba</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lefölözö kikapcsolva</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lefölözö bekapcsolva</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hutoviz szelep vezérlés</match>
+        <background>magenta</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>kötözögép</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emulzió fötartály keverö szivattyú bekapcsolva</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>áramlás hiba</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>e -stop</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emergency stop</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>normal stop</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>not ready for</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>is ready for</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>fbk</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>maintenance mode</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ready for operation  </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ready for start</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ready for run up</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cmd</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>flow ok</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pressure ok</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>command</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>drive not ready</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>start fault :</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>drive fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>operation mode hold</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>group jog. blocked</match>
+        <background>lightgray</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ffc inactive</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ffc off</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ffc on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ffc active</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>inverter disabled</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>8950116.n11-yvl1.02</match>
+        <background>magenta</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>szeparátor automatikus</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>controller disabled</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>n&lt;&gt;0</match>
+        <background>magenta</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>n=0</match>
+        <background>magenta</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>to ramp</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>separator local</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sótlan viz</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>felület ellenörzö podium a hengerlési vonalban</match>
+        <background>magenta</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>diff[.]-tension to big</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>not possible because</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>basic calibration started</match>
+        <background>black</background>
+        <foreground>green</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal calibration is running</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>basic calibration active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal calculate contact position</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal manual intervention disabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: quick open</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>quick open </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap is full opened</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>state: pos[.]transducers sychronized</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: close around</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>close around </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>screw down out of upper limit</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap is opened to pos</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>go to stored calibration tilting</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>stored tilting from last calibration reached</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>start calibration mode</match>
+        <background>black</background>
+        <foreground>green</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal check contact position</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap to min[.]roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hgc roll force ctrl[.]enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll force &gt;= min[.]roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>stand loaded </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll force &gt; min[.]roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco line speed = zero</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco line speed is &gt; tin</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: calibration roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap to calibration roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hgc single roll force ctrl[.]enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hgc difference ctrl.disabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll force &gt;= min.operat. roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco start ready</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>state: calibration pos</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>delta calibration tilting &gt; limit</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: set ref[.]to act[.]pos[.]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hgc tilting ctrl[.]enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco tail out ready</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>setpoint=act pos[.]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>run into contact roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll force at lower limit for thc</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>contact roll force ok</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco line speed &lt; zero</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: gap to pos</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hgc pos[.]ctrl[.]enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll force &lt; min[.]roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>open pos[.]&gt;= pos1: x mm</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap is opened to pos 3</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>basic calibration finished</match>
+        <background>black</background>
+        <foreground>green</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>contact pos[.]upper limit exceeded</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>min[.]roll force ok</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal store contact position</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: contact roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap to contact roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pressure or roll force transducers tared</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cal: gap to contact roll force  </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>delta calibration tilting is ok</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco line speed is &lt; tin</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap to pos3: x mm</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>excentrizity at calibration to high</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>open around</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>basic calibration stopped</match>
+        <background>black</background>
+        <foreground>yellow</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>open pos[.] = pos1: x mm</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tg tn thg0 new valid passdata</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tg tx thg1 new valid passdata  </match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tg tn thg0 passdata sent to thg</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tg tx thg1 passdata sent to thg</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco run ready</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>acceleration reduction by mrg</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>upper limit reached for work roll bending</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tension controler at limits</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>setpoint=act roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hgc manual interv[.]roll force</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>contact pos. at min. rf not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>movements fault :</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sor termel</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sor nem termel</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emulzió fötartály keverö szivattyú kikapcsolva</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>no ramp selected</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip centering in center pos</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>drive on mr</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sequence buffer overflow</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>no mode from lco</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>main pulpit group jog[.] seq[.] active</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>(aux.mov[.])active  </match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>(drv[.]to rmp[.])active  </match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>operation mode group jog forward</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>spare</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread in [/] start line fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>operation mode accelerate mr1 (g)</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pb line speed hold</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>data request</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pass data ok</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>next passdata must be ok</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>coil car lowered</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tens[.]is estab</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>oper[.]tens[.]on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread tens.off  </match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>air blow ready</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry side guide in tail out pos</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>operation mode tail out</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>torque control off</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>speed is according operation mode</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>positioning controller active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sld a active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>acceleration is neg</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>regulator hold</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip end slow down activ</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip end stop activ</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread in speed</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>position control is on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rollforce control is on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tail out speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>tension controller on (g)</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gj speed</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>current pos[.] finished</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ready for tail out</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>s1 mon off</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>s1 mon inactive</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>balancing off</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>comm[.] error</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>invalid data from abb stressometer</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>manual interv[.]tilt to</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>goto stored tilting from last calibration</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>comm[.]error</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>szeparátor manuális</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>szeparátor automata</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap to thread value</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap to thread in roll force</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap in thread in value</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>gap in thread in roll force</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pos[.]ctrl[.]on </match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>lco leitgeschwindigkeit ist</match>
+        <background>lightgray</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>start feed forward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>átcsévéléses</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll door in lower</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>oil cellar ventilation rfo</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mes s1 oil air syst[.]rfo</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>fume exhaust rfo</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>not rfo</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mes fume exhaust not rfo</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rfo  </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtn por outboard bearing swiveled out</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>data received</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>manual intervention reseted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip end - pass change</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por coil car mandrel turning request</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg pay off reel inverter enable</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pass data fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>single jogging</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg pay off reel jog forward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>inverter enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>direction 1 forward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>enabled for oper</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pay off reel jog reverse</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por outboard bearing swiveled in</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr por occupied</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pass data</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>inverter enab[.]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pass change</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>diameter calculation enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip end slow down finished</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>reel is occupied</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip tail slow down</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>take over start diameter</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry side guide in thread</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>selection rolling direction fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread with open stand</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rolling direction por &gt; rr2 active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread in with open gap selected</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>all defects deleted</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg rolling direction</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por is operation reel</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread open gap</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pass 1 activ</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pass number 1 from sdh</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry side guide setpoints</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>slot selected</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pay off reel enab[.]for oper</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por carryover table manual intervention</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>light barrier por occupied</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>por desk</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>spacial mode</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>inverter enable</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>shutter is close</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rch1 wedge adjustment lowered</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>coil car out of winding area</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>strip centering ready for operation</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>drive send fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>i error 16</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thg1 cs calibration is activ</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>cs calibration is activ</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>shutter is open</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>drive receive fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mes hydr[.] lp [(]aux[.] movements[)] rfo</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 measuring</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>shapemeter roll start for calibration fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>switch on not possible [(]missing conditions[)] </match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>switch on not possible [(]time out[)]</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry reversing reel not occupied</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>exit reversing reel not occupied</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>activate signal horn</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>no rolling direction selected</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>coil diameters not ok[,] check</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>diag[.]request start ready</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr entry strip carryover table swiveling not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr entry strip carryover table extension not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr entry strip carryover table extension not retracted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr belt wrapper not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr belt wrapper not retracted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr snubber roll is not retracted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr mandrel is not expanded</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr mandrel is not collapsed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr outboard bearing not swiveled in</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr stripper plate is not retracted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>nrr outboard bearing sleeve not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry strip guide table not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry strip press not in feeding position</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry strip press traversing not adjusted or locked</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry dividing shear not opened</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry strip press traversing not adjusted or locked</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rolling mode not selected</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>back up roll oil air flow not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>top bur latch entry not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>top bur latch exit not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>bottom bur latch entry not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>bottom bur latch exit not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>top work roll latch entry not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>top work roll latch exit not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>bottom work roll latch entry not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>wedge adjustment not in passline position</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>bottom work roll latch exit not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>exit bending roll adjustment is not retracted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>exit strip guide table not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>exit blow off device traversing not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>exit blow of traversing not adjusted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>oil air lubr[.]system air press[.] not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>oil air lubr[.]system oil pressure not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>oil air lubr[.]system oil flow not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>oil air lubr[.]system air pressure not ok</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg xa1 flatness roll ready for operation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg bottom pinch roll ready for operation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg exit deflector pinch roll ready for operation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg passline roll ready for operation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg entry deflector pinch roll ready for operation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg na1 flatness roll ready for operation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>en_shapem[.] roll[:] drive on sr</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>en[_]shapem[.] roll[:] controller enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>drive not enabled</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ex_shapem[.] roll[:] controller enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>emu s1 emulsion system rfo</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sector ramp 1 is already in use</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ex_shapem[.] roll[:] drive on sr</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mes lubr[.]syst[.]gears rfo</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>entry bending roll adjustment is not retracted</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pg0 lift</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pg0 lower</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pg0 stop</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pg0 lift</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mes hydr[.] hp [(]hgc[,] rollbal[/]ben/shift[)] rfo</match>
+        <background>lightgray</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pg0 offline</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna thg1 warning</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna thg1 cs calibration request</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna thg1 is offline</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna thg1 movement stop</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 is offline</match>
+        <background>gray</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 movement stop</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 warning</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 cs calibration request</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr light barrier rr1 occupied</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pg0 jogging direction 1 [(]forward[)]</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>stand top drive drive jogging forward fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>stand bottom drive drive jogging forward fault</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>safety stop by</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr stand 1 occupied</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip at entry side guide</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip at entry shear</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip at stand entry side</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip at stand exit side</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip in stand</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr stand 1 occupied [(]g[)]</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip at entry side guide [(]g[)]</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>shutter is not closed</match>
+        <background>orange</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna finish pass request</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 finish pass request</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr light barrier rr2 occupied [(]g[)]</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rch1 roll change mode selected</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr light barrier rr2 occupied</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna thg1 error</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcna thg1 inactive</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>dot send tel.:st_request</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 error</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg acceleration is pos[.]a[&gt;]0 mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rolling direction rr2 [&gt;] rr1 active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg low tailout speed</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg acceleration is zero a[=]0 mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr pass 2 activ</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>en_defl[.] roll[:] controller enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ex_defl[.] roll[:] controller enabled</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] special mode [(]drfac=1[)]</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] mode forward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1 (lco)[:] group jogging forward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] int[.] n-stop by change from back- to forward</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sds1 rollforce [&gt;][=] min[.]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr stand 1 loaded</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] mode backward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ex_reversing reel[:] thread in tension request</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1 [(]lco[)][:] thread in</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[(]lco[)][:] s-pos12[,] s-head in slot rr_en</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1 [(]lco[)]: group jogging forward</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1-posctr1[:] pos d synchronized</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] next pos[.] with ref[.] to posctr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ex_reversing reel[:] tension is thread in tension</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>main pulpit group jog[.] step 1 [(]aux[.]mov[.][)]active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sds1 rollforce control on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>main pulpit group jog[.] step 2 [(]drv[.]to rmp[.][)]active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg rr1 is operation reel</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>main pulpit group jog[.] step 3 [(]op[.]mode[)]active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&gt;] min.speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is lcu speed mr1 [(]g[)]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&gt;] lcu speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>line speed is not zero</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&gt;] zero mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is hcu speed mr1 [(]g[)]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&gt;] hcu speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is minimum cutting speed mr1 [(]g[)]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&gt;] minimum cutting speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&lt;][=] min[.]speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is hcu speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is not [&gt;] hcu speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is minimum cutting speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&lt;][=] minimum cutting speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>start pass of pass signal to check finish pass requests</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is zero mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is lcu speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg speed is [&lt;][=] lcu speed mr1</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sds1 position control on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr enable synchronisation</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] int[.] hold from mrg</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] int[.] hold set according to pos[.] finished</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[(]lco[)][&gt;][:] e-pos12[,] s-head in rr_en clamping slot</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] int[.] hold reseted according to pos[.] finished</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1-posctr1[:] positioning finished</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pb line speed thread in</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread [/]start line start pulse</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread [/]start enable drives on ramp</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 2 torque control on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>en_reversing reel[:] counter reseted</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 2 torque control enable [(]tq_ena[)]</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 2 thread tens[.]on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>sds1 rollforce to frmin</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pb line speed thread</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread [/] line start is active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread [/]start move srewdowns reset</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 2 delta v on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1-sld[:] sld a synchronized</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread [/]start operation mode request</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mr1[:] next pos[.] is strip end brake</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg operation mode thread in mr1 </match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg mr1 position 12 strip head in rr1 clamping slot start</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 2 thread tens[.]is on</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr strip at entry deflector roll</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>en_reversing reel[:] thread in tension request</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>en_reversing reel[:] tension is thread in tension</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread /start line not active</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread /start operation mode reset</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg mr1 position 12 strip head in rr1 clamping slot finishe</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mtr rr1 occupied</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thread[/]start with closed gap selected</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 1 delta v negative</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>ex_reversing reel: run tension request</match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rch </match>
+        <background>cyan</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hcs </match>
+        <background>pink</background>
+        <foreground>magenta</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>vastagság eltérés abnormális értéken</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>acces request</match>
+        <background>lightgray</background>
+        <foreground>magenta</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>rálapoló</match>
+        <background>black</background>
+        <foreground>orange</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>retesz zárás</match>
+        <background>black</background>
+        <foreground>red</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>error</match>
+        <background>red</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>hüto viz</match>
+        <background>orange</background>
+        <foreground>blue</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>túlzott tisztaolaj betöltés</match>
+        <background>red</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>roll change is selected</match>
+        <background>yellow</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mes oil air lubr.syst.rfo</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>munkahenger cserélo egyideju ellentétes irányok</match>
+        <background>red</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>thcxa1 thg1 traverse permission</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 1 ready for oper</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>mrg reversing reel 2 ready for oper</match>
+        <background>green</background>
+        <foreground>black</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>pb aux.mov start from main pulpit d03</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match>group jogging backward</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+    <color>
+        <column>7</column>
+        <match> pb aux.mov stop from main pulpit d03</match>
+        <background>blue</background>
+        <foreground>white</foreground>
+    </color>
+</colors>

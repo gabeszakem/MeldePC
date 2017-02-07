@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<treetooltips>
+	<treetooltip>
+        <port>1081</port>
+        <text>UDP TDC CPU 1 SDH ADP MTR NEWLINE NEWLINE
+			A TDC 1-es CPU Üzenetei:NEWLINE
+			SDH:Beállítási adat kezelõ.NEWLINE
+			ADP:NEWLINE
+			MTR:Anyagkövetés
+		</text>
+	</treetooltip>
+	<treetooltip>
+        <port>1082</port>
+        <text>UDP TDC CPU 2-3 MRG LCO NEWLINE NEWLINE
+		A TDC 2-es, 3-as CPU Üzenetei:NEWLINE
+		MRG: Rámpa Generátor NEWLINE
+		LCO: Line Coordinator
+		</text>
+	</treetooltip>
+	<treetooltip>
+        <port>1083</port>
+        <text>UDP TDC CPU 4-5-6-7 STM RBS SDS THC FLC NEWLINE NEWLINE
+		A TDC 4-5-6-7 -es CPU üzenetei NEWLINE
+		STM: Állvány Menedzser NEWLINE
+		RBS: Hengerhajlító rendszer NEWLINE
+		SDS: Hengerszabályzó rendszer NEWLINE
+		THC: Vastagság szabályzó NEWLINE
+		FLC: Síkkifekvés szabályzó
+		</text>
+	</treetooltip>
+	<treetooltip>
+        <port>1090</port>
+        <text>UDP szerver PLC Siemens NEWLINE NEWLINE
+			Siemenses S7 plc üzenetei
+		</text>
+	</treetooltip>
+	<treetooltip>
+        <port>1091</port>
+        <text>UDP szerver PLC NEWLINE NEWLINE
+			Dunaferres S7 plc üzenetei
+			</text>
+	</treetooltip>
+</treetooltips>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!-- Choosable colors:
+	"black","blue","cyan","darkgray","darkgrey",
+	"gray","grey","green","lightgray","lightgrey",
+	"magenta","orange","pink","red","white","yellow" 
+-->
+<colors>
+	<color>
+		<column>10</column>
+		<match>emerg</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>suru jános</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>power supply fault</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>error powersupply</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>power fault</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>communication not ok</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>fault et200</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>no comm.to</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>strip break</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>block protection not o.k</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>e-stop</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>fault no</match>
+		<background>red</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>emulzió olaj</match>
+		<background>blue</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>stop request</match>
+		<background>blue</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>9</column>
+		<match>wh</match>
+		<background>orange</background>
+		<foreground>black</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>abb is not corr</match>
+		<background>orange</background>
+		<foreground>black</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>quick-stop</match>
+		<background>orange</background>
+		<foreground>black</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>quick stop</match>
+		<background>orange</background>
+		<foreground>black</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>channel full</match>
+		<background>black</background>
+		<foreground>white</foreground>
+	</color>
+	<color>
+		<column>7</column>
+		<match>system message</match>
+		<background>darkgray</background>
+		<foreground>white</foreground>
+	</color>
+</colors>
