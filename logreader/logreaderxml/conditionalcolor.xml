@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!--
+	if (<column> is included <match>) {
+        if (<conditionalcolumn> <conditional> <conditionalvalue>) {
+            setBackground(<ifbackground>);
+            setForeground<ifforeground>;
+        } else {
+            setBackground(<elsebackground>);
+            setForeground(<elseforeground>);
+        }
+    }
+-->
+<!--
+	Conditionals : 
+	equals 						:eq   	=
+	does not equal				:ne   	!=
+	is greater than				:gt   	>
+	is greater than or equal    :ge	  	>=
+	is less than 				:lt		<
+	is less than or equal to 	:le		<=
+-->
+<!-- Choosable colors:
+	"black","blue","cyan","darkgray","darkgrey",
+	"gray","grey","green","lightgray","lightgrey",
+	"magenta","orange","pink","red","white","yellow" 
+-->
+
+<colors>
+	<colorconditional>
+		<column>7</column>
+		<match>felulet ellenorzo podium tipus</match>
+		<conditionalcolumn>6</conditionalcolumn>
+		<conditional>le</conditional>
+		<conditionalvalue>3.0</conditionalvalue>
+		<ifbackground>green</ifbackground>
+		<ifforeground>darkgray</ifforeground>
+		<elsebackground>pink</elsebackground>
+		<elseforeground>darkgray</elseforeground>
+	</colorconditional>
+</colors>
